@@ -8,7 +8,7 @@ This repository is used as a development stack to demonstrate a Unified Namespac
 * Enterprise Administration Module (EAM), Alarm event data, and Audit logs communicate over the Gateway Network
 * Each level of the organization has its own MQTT Broker to build out the UNS
 
-![alt text](https://github.com/ia-tgoetz/MQTT-GWN/blob/main/Capture.JPG?raw=true)
+![alt text](https://github.com/ia-tgoetz/IgnitionUNS/blob/main/Capture.JPG?raw=true)
 
 # Setup
 * Clone Git Repo
